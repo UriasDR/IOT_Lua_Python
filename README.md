@@ -1,6 +1,6 @@
 # IOT da Luminosidade da Lua e controle de energia dos Postes
 
-- Feito por Urias da Rosa e Anderson...
+- Feito por Urias da Rosa e Anderson Pereira da Silva
 
   O projeto foi feito com a instrução e ajuda do Professor Guilherme Afonso Madalozzo, na disciplina de Programação paralela e distribuída.
 
